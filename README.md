@@ -5,12 +5,13 @@ My preferred programming languages are C# and Java, but I also enjoy doing web d
 You can contact me at luchoag@gmail.com.<br>
 <br>
 Top projects:<br>
-· AdminKiosco (C#)<br>
 · AdminKiosco (Java)<br>
+· CalculatorFX (Java)<br>
+· AdminKiosco (C#)<br>
 · RPG-Dungeon (JavaScript)<br>
 <br>
 Currently working on: <br>
-· Alumnos CRUD (ASP.NET)<br>
+· Contact Manager (Spring Boot App)<br>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/luciano-adolfo-greppi/"><img height=40 src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSk-cX_eLmfG6blX5lcqrcnB59gvHWpCmiK4Q&usqp=CAU"></a>
