@@ -1,8 +1,13 @@
 ### Hi there, fellow reader! 👋
 
-I'm Luciano Greppi, a 29 y/o aspiring software developer from Buenos Aires, Argentina. Welcome to my personal GitHub account where I upload the projects I'm working on, or already finished.<br>
+<img height=30 src="https://lh3.googleusercontent.com/proxy/dkOd--vE4yxJbvfsv2KfDi8Ca18IyDbUqn2yzmM-XdDKEa61eCvI7QVKUCo-p_Ddo4vyEweUzWeIBicuYB5Tbf9XWDFxn3yl"> I'm Luciano Greppi, a 29 y/o aspiring software developer from Buenos Aires, Argentina. Welcome to my personal GitHub account where I upload the projects I'm working on, or already finished.<br>
 My preferred programming languages are C# and Java, but I also enjoy doing web design with the good old HTML, CSS and JavaScript.<br>
 You can contact me at luchoag@gmail.com.<br>
+
+<img height=30 src="https://cdn.icon-icons.com/icons2/1531/PNG/128/3253482-flag-spain-icon_106784.png"> Soy Luciano Greppi, aspirante a desarrollador de software de 29 años de Buenos Aires, Argentina. Bienvenido/a a mi cuenta personal de GitHub donde subo los proyectos en los que estoy trabajando o que ya terminé.<br>
+Mis lenguajes de programación preferidos son C# y Java, pero también me gusta realizar diseños web con los clásicos HTML, CSS y JavaScript.<br>
+Mi mail de contacto es luchoag@gmail.com.<br>
+
 <br>
 Top projects:<br>
 · AdminKiosco (Java)<br>
