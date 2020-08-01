@@ -4,13 +4,14 @@
 My preferred programming languages are C# and Java, but I also enjoy doing web design with the good old HTML, CSS and JavaScript.<br>
 You can contact me at luchoag@gmail.com.<br>
 
-<img height=30 src="https://cdn.icon-icons.com/icons2/1531/PNG/128/3253482-flag-spain-icon_106784.png"> Soy Luciano Greppi, aspirante a desarrollador de software de 29 años de Buenos Aires, Argentina. Bienvenido/a a mi cuenta personal de GitHub donde subo los proyectos en los que estoy trabajando o que ya terminé.<br>
+<img height=30 src="https://cdn.icon-icons.com/icons2/1531/PNG/128/3253482-flag-spain-icon_106784.png"> Mi nombre es Luciano Greppi, tengo 29 años y soy aspirante a desarrollador de software. Vivo en Buenos Aires, Argentina. Bienvenido/a a mi cuenta personal de GitHub donde subo los proyectos en los que estoy trabajando o que ya terminé.<br>
 Mis lenguajes de programación preferidos son C# y Java, pero también me gusta realizar diseños web con los clásicos HTML, CSS y JavaScript.<br>
 Mi mail de contacto es luchoag@gmail.com.<br>
 
 <br>
 Top projects:<br>
 · AdminKiosco (Java)<br>
+· Spring-Tutorial (Java)<br>
 · CalculatorFX (Java)<br>
 · AdminKiosco (C#)<br>
 · RPG-Dungeon (JavaScript)<br>
