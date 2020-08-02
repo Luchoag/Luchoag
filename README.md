@@ -1,6 +1,6 @@
 ### Hi there, fellow reader! 👋
 
-<img height=30 src="https://lh3.googleusercontent.com/proxy/dkOd--vE4yxJbvfsv2KfDi8Ca18IyDbUqn2yzmM-XdDKEa61eCvI7QVKUCo-p_Ddo4vyEweUzWeIBicuYB5Tbf9XWDFxn3yl"> I'm Luciano Greppi, a 29 y/o aspiring software developer from Buenos Aires, Argentina. Welcome to my personal GitHub account where I upload the projects I'm working on, or already finished.<br>
+<img height=30 src="https://i1.pngguru.com/preview/715/644/898/world-flag-icons-united-kingdom-flag-art.jpg"> I'm Luciano Greppi, a 29 y/o aspiring software developer from Buenos Aires, Argentina. Welcome to my personal GitHub account where I upload the projects I'm working on, or already finished.<br>
 My preferred programming languages are C# and Java, but I also enjoy doing web design with the good old HTML, CSS and JavaScript.<br>
 You can contact me at luchoag@gmail.com.<br>
 
