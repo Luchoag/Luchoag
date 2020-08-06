@@ -10,6 +10,7 @@ Mi mail de contacto es luchoag@gmail.com.<br>
 
 <br>
 Top projects:<br>
+
 · AdminKiosco (Java)<br>
 · Spring-Tutorial (Java)<br>
 · CalculatorFX (Java)<br>
@@ -20,7 +21,15 @@ Currently working on: <br>
 · Contact Manager (Spring Boot App)<br>
 <br>
 <br>
+Technologies:<br>
+<img height=50 src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png">
+<img height=50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo8gnVA2n-OPRpw6HwKaHyAYTRd-st-JozSg&usqp=CAU">
+<img height=50 src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png">
+<img height=50 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
+<img height=50 src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
+<br><br>
 <a href="https://www.linkedin.com/in/luciano-adolfo-greppi/"><img height=40 src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSk-cX_eLmfG6blX5lcqrcnB59gvHWpCmiK4Q&usqp=CAU"></a>
+
 
 
 <!--
