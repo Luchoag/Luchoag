@@ -18,7 +18,7 @@ Top projects:<br>
 · RPG-Dungeon (JavaScript)<br>
 <br>
 Currently working on: <br>
-· Contact Manager (Spring Boot App)<br>
+· El Séptimo Círculo (Java Web App)<br>
 <br>
 <br>
 Technologies:<br>
