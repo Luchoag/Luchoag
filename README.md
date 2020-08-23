@@ -8,10 +8,9 @@ You can contact me at luchoag@gmail.com.<br>
 Mis lenguajes de programación preferidos son Java y C#, pero también me gusta realizar diseños web con los clásicos HTML, CSS y JavaScript.<br>
 Mi mail de contacto es luchoag@gmail.com.<br>
 
-
+<br>
 <b>Currently working on:</b> <br>
 <b>·</b> <a href="https://github.com/Luchoag/El-Septimo-Circulo">El Séptimo Círculo</a> (Java - Spring Boot App)<br>
-<br>
 
 <b>Top projects:</b><br>
 <b>·</b> <a href="https://github.com/Luchoag/product-api">Product API</a> (Java, Spring Boot, MySQL, Swagger)<br>
