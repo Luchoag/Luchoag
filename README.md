@@ -14,11 +14,12 @@ Mi mail de contacto es luchoag@gmail.com.<br>
 <br>
 
 <b>Top projects:</b><br>
-<b>·</b> <a href="https://github.com/Luchoag/product-api">Product API</a> (Java - Spring Boot App - MySQL - Swagger)<br>
-<b>·</b> <a href="https://github.com/Luchoag/administracion-kiosco-java">AdminKiosco</a> (Java - MySQL)<br>
-<b>·</b> <a href="https://github.com/Luchoag/spring-tutorial">Spring-Tutorial</a> (Java - Spring Framework)<br>
+<b>·</b> <a href="https://github.com/Luchoag/product-api">Product API</a> (Java, Spring Boot, MySQL, Swagger)<br>
+<b>·</b> <a href="https://github.com/Luchoag/product-api">Prácticas API</a> (Java, Spring Boot App, JPA, MySQL)<br>
+<b>·</b> <a href="https://github.com/Luchoag/administracion-kiosco-java">AdminKiosco</a> (Java, MySQL)<br>
+<b>·</b> <a href="https://github.com/Luchoag/spring-tutorial">Spring-Tutorial</a> (Java, Spring Framework)<br>
 <b>·</b> <a href="https://github.com/Luchoag/CalculatorFX">CalculatorFX</a> (JavaFX)<br>
-<b>·</b> <a href="https://github.com/Luchoag/AdminKiosco">AdminKiosco</a> (C# - SQL Server)<br>
+<b>·</b> <a href="https://github.com/Luchoag/AdminKiosco">AdminKiosco</a> (C#, SQL Server)<br>
 <b>·</b> <a href="https://github.com/Luchoag/rpg-dungeon">RPG-Dungeon</a> (JavaScript OOP)<br>
 <b>·</b> <a href="https://github.com/Luchoag/picross-game">Picross Game</a> (JavaScript)<br>
 <br>
