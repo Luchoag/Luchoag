@@ -21,7 +21,6 @@ Mi mail de contacto es luchoag@gmail.com.<br>
 <b>·</b> <a href="https://github.com/Luchoag/AdminKiosco">AdminKiosco</a> (C#, SQL Server) \
 <b>·</b> <a href="https://github.com/Luchoag/rpg-dungeon">RPG-Dungeon</a> (JavaScript OOP) \
 <b>·</b> <a href="https://github.com/Luchoag/picross-game">Picross Game</a> (JavaScript) \
- \ 
  
  <b>Technologies:</b> \
 <img height=60 src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png">&nbsp;
@@ -32,7 +31,7 @@ Mi mail de contacto es luchoag@gmail.com.<br>
 <img height=50 src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
 <br><br>
 <a href="https://www.linkedin.com/in/luciano-adolfo-greppi/"><img height=40 src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSk-cX_eLmfG6blX5lcqrcnB59gvHWpCmiK4Q&usqp=CAU"></a>
-
+<br>
 
 <!--
 **Luchoag/Luchoag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
