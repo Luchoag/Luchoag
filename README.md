@@ -10,7 +10,8 @@ Mi mail de contacto es luchoag@gmail.com.<br>
 
 <br>
 <b>Currently working on:</b> <br>
-<b>·</b> <a href="https://github.com/Luchoag/El-Septimo-Circulo">El Séptimo Círculo</a> (Java - Spring Boot)<br><br>
+<b>·</b> <a href="https://github.com/Luchoag/El-Septimo-Circulo">El Séptimo Círculo</a> (Java, Spring Boot)
+<b>·</b> <a href="https://github.com/Luchoag/Videoclub-Atenas">Videoclub Atenas</a> (HTML5, CSS3, JavaScript, Python)<br><br>
 
 <b>Top projects:</b><br>
 <b>·</b> <a href="https://github.com/Luchoag/product-api">Product API</a> (Java, Spring Boot, MySQL, Swagger) \
@@ -20,7 +21,7 @@ Mi mail de contacto es luchoag@gmail.com.<br>
 <b>·</b> <a href="https://github.com/Luchoag/CalculatorFX">CalculatorFX</a> (JavaFX) \
 <b>·</b> <a href="https://github.com/Luchoag/AdminKiosco">AdminKiosco</a> (C#, SQL Server) \
 <b>·</b> <a href="https://github.com/Luchoag/rpg-dungeon">RPG-Dungeon</a> (JavaScript OOP) \
-<b>·</b> <a href="https://github.com/Luchoag/picross-game">Picross Game</a> (JavaScript) \
+<b>·</b> <a href="https://github.com/Luchoag/picross-game">Picross Game</a> (JavaScript)
  
  <b>Technologies:</b> \
 <img height=60 src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png">&nbsp;
