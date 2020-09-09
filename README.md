@@ -10,7 +10,7 @@ Mi mail de contacto es luchoag@gmail.com.<br>
 
 <br>
 <b>Currently working on:</b> <br>
-<b>·</b> <a href="https://github.com/Luchoag/El-Septimo-Circulo">El Séptimo Círculo</a> (Java, Spring Boot) \
+<b>·</b> <a href="https://github.com/Luchoag/El-Septimo-Circulo">El Séptimo Círculo</a> (Java, Spring Boot)<br>
 <b>·</b> <a href="https://github.com/Luchoag/Videoclub-Atenas">Videoclub Atenas</a> (HTML5, CSS3, JavaScript, Python)<br><br>
 
 <b>Top projects:</b><br>
