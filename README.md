@@ -13,19 +13,19 @@ Mi mail de contacto es luchoag@gmail.com.<br>
 <b>·</b> <a href="https://github.com/Luchoag/El-Septimo-Circulo">El Séptimo Círculo</a> (Java - Spring Boot)<br><br>
 
 <b>Top projects:</b><br>
-<b>·</b> <a href="https://github.com/Luchoag/product-api">Product API</a> (Java, Spring Boot, MySQL, Swagger)<br>
-<b>·</b> <a href="https://github.com/Luchoag/product-api">Prácticas API</a> (Java, Spring Boot App, JPA, MySQL)<br>
-<b>·</b> <a href="https://github.com/Luchoag/administracion-kiosco-java">AdminKiosco</a> (Java, MySQL)<br>
-<b>·</b> <a href="https://github.com/Luchoag/spring-tutorial">Spring-Tutorial</a> (Java, Spring Framework)<br>
-<b>·</b> <a href="https://github.com/Luchoag/CalculatorFX">CalculatorFX</a> (JavaFX)<br>
-<b>·</b> <a href="https://github.com/Luchoag/AdminKiosco">AdminKiosco</a> (C#, SQL Server)<br>
-<b>·</b> <a href="https://github.com/Luchoag/rpg-dungeon">RPG-Dungeon</a> (JavaScript OOP)<br>
-<b>·</b> <a href="https://github.com/Luchoag/picross-game">Picross Game</a> (JavaScript)<br>
-<br>
-<br>
-Technologies:<br>
+<b>·</b> <a href="https://github.com/Luchoag/product-api">Product API</a> (Java, Spring Boot, MySQL, Swagger) \
+<b>·</b> <a href="https://github.com/Luchoag/product-api">Prácticas API</a> (Java, Spring Boot App, JPA, MySQL) \
+<b>·</b> <a href="https://github.com/Luchoag/administracion-kiosco-java">AdminKiosco</a> (Java, MySQL) \
+<b>·</b> <a href="https://github.com/Luchoag/spring-tutorial">Spring-Tutorial</a> (Java, Spring Framework) \
+<b>·</b> <a href="https://github.com/Luchoag/CalculatorFX">CalculatorFX</a> (JavaFX) \
+<b>·</b> <a href="https://github.com/Luchoag/AdminKiosco">AdminKiosco</a> (C#, SQL Server) \
+<b>·</b> <a href="https://github.com/Luchoag/rpg-dungeon">RPG-Dungeon</a> (JavaScript OOP) \
+<b>·</b> <a href="https://github.com/Luchoag/picross-game">Picross Game</a> (JavaScript) \
+ \ 
+ \
+ Technologies: \
 <img height=60 src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png">&nbsp;
-<img height=50 src="https://symbols.getvecta.com/stencil_96/72_spring-framework-icon.f901b1016d.jpg">&nbsp;
+<img height=60 src="https://i.imgur.com/RzQDVCX.png">&nbsp;
 <img height=60 src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo8gnVA2n-OPRpw6HwKaHyAYTRd-st-JozSg&usqp=CAU">&nbsp;
 <img height=60 src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png">&nbsp;
 <img height=65 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">&nbsp;
@@ -33,7 +33,7 @@ Technologies:<br>
 <br><br>
 <a href="https://www.linkedin.com/in/luciano-adolfo-greppi/"><img height=40 src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSk-cX_eLmfG6blX5lcqrcnB59gvHWpCmiK4Q&usqp=CAU"></a>
 
-
+[img]https://i.imgur.com/RzQDVCX.png[/img]
 
 <!--
 **Luchoag/Luchoag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
