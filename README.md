@@ -1,10 +1,10 @@
 ### Hi there, fellow reader! 👋
 
-<img height=30 src="https://i1.pngguru.com/preview/715/644/898/world-flag-icons-united-kingdom-flag-art.jpg"> I'm Luciano Greppi, a 29 y/o aspiring software developer from Buenos Aires, Argentina. Welcome to my personal GitHub account where I upload the projects I'm working on, or already finished.<br>
+<img height=30 src="https://i1.pngguru.com/preview/715/644/898/world-flag-icons-united-kingdom-flag-art.jpg"> I'm Luciano Greppi, a 30 y/o aspiring software developer from Buenos Aires, Argentina. Welcome to my personal GitHub account where I upload the projects I'm working on, or already finished.<br>
 My preferred programming languages are Java and C#, but I also enjoy doing web design with the good old HTML, CSS and JavaScript.<br>
 You can contact me at luchoag@gmail.com.<br>
 
-<img height=30 src="https://cdn.icon-icons.com/icons2/1531/PNG/128/3253482-flag-spain-icon_106784.png"> Mi nombre es Luciano Greppi, tengo 29 años y soy aspirante a desarrollador de software. Vivo en Buenos Aires, Argentina. Bienvenido/a a mi cuenta personal de GitHub donde subo los proyectos en los que estoy trabajando o que ya terminé.<br>
+<img height=30 src="https://cdn.icon-icons.com/icons2/1531/PNG/128/3253482-flag-spain-icon_106784.png"> Mi nombre es Luciano Greppi, tengo 30 años y soy aspirante a desarrollador de software. Vivo en Buenos Aires, Argentina. Bienvenido/a a mi cuenta personal de GitHub donde subo los proyectos en los que estoy trabajando o que ya terminé.<br>
 Mis lenguajes de programación preferidos son Java y C#, pero también me gusta realizar diseños web con los clásicos HTML, CSS y JavaScript.<br>
 Mi mail de contacto es luchoag@gmail.com.<br>
 
